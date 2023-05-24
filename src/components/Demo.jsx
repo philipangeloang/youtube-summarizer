@@ -22,7 +22,7 @@ const Demo = () => {
 
           <input
             type="url"
-            placeholder="Paste the article link"
+            placeholder="Paste the youtube link"
             required
             className="url_input peer" // When you need to style an element based on the state of a sibling element, mark the sibling with the peer class, and use peer-* modifiers to style the target element
           />
